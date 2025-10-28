@@ -1,0 +1,29 @@
+=== LAPORAN ANALISIS VIGENÈRE CIPHER ===
+Tanggal & Waktu : 2025-10-28 22:38:08
+Kunci (Key)     : TECH
+Plaintext       : Informatika adalah masa depan yang cerah
+Ciphertext      : Brhvkqcaboc thcstl ttwc wirhg ahgk jxvco
+
+=== Analisis Frekuensi Ciphertext ===
+C : 14.29%
+H : 11.43%
+T : 11.43%
+B : 5.71%
+R : 5.71%
+V : 5.71%
+K : 5.71%
+A : 5.71%
+O : 5.71%
+W : 5.71%
+G : 5.71%
+Q : 2.86%
+S : 2.86%
+L : 2.86%
+I : 2.86%
+J : 2.86%
+X : 2.86%
+
+Kesimpulan:
+Distribusi huruf pada ciphertext menunjukkan pola acak tanpa dominasi karakter tertentu.
+Hal ini menunjukkan bahwa cipher bekerja baik menyembunyikan pola bahasa alami.
+Validasi hasil dapat dilakukan menggunakan CrypTool untuk memastikan ciphertext dan dekripsi sesuai.

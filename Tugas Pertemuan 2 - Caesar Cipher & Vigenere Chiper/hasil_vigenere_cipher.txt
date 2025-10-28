@@ -1,0 +1,10 @@
+==================================================
+HASIL PROGRAM VIGENÈRE CIPHER
+==================================================
+
+Teks Asli       : THIA SHOPY LATIFAH
+Hasil Enkripsi  : MOQA LOWPR SITBMIH
+Hasil Dekripsi  : THIA SHOPY LATIFAH
+Kunci           : THIA
+
+==================================================
